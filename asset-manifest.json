@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kswebsite/static/css/main.e391c1e0.chunk.css",
-    "main.js": "/kswebsite/static/js/main.4d176f38.chunk.js",
-    "main.js.map": "/kswebsite/static/js/main.4d176f38.chunk.js.map",
+    "main.js": "/kswebsite/static/js/main.d358294e.chunk.js",
+    "main.js.map": "/kswebsite/static/js/main.d358294e.chunk.js.map",
     "runtime-main.js": "/kswebsite/static/js/runtime-main.0c2d8ea8.js",
     "runtime-main.js.map": "/kswebsite/static/js/runtime-main.0c2d8ea8.js.map",
     "static/js/2.0694e84e.chunk.js": "/kswebsite/static/js/2.0694e84e.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0c2d8ea8.js",
     "static/js/2.0694e84e.chunk.js",
     "static/css/main.e391c1e0.chunk.css",
-    "static/js/main.4d176f38.chunk.js"
+    "static/js/main.d358294e.chunk.js"
   ]
 }
