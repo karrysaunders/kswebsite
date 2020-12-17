@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css",
-    "main.js": "/karrysaunders/kswebsite/static/js/main.f2b69b36.chunk.js",
-    "main.js.map": "/karrysaunders/kswebsite/static/js/main.f2b69b36.chunk.js.map",
-    "runtime-main.js": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js",
-    "runtime-main.js.map": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js.map",
-    "static/js/2.0694e84e.chunk.js": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js",
-    "static/js/2.0694e84e.chunk.js.map": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js.map",
-    "index.html": "/karrysaunders/kswebsite/index.html",
-    "static/css/main.e391c1e0.chunk.css.map": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css.map",
-    "static/js/2.0694e84e.chunk.js.LICENSE.txt": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js.LICENSE.txt",
-    "static/media/bluehex.5b74abb3.png": "/karrysaunders/kswebsite/static/media/bluehex.5b74abb3.png",
-    "static/media/chair.e81e46b6.png": "/karrysaunders/kswebsite/static/media/chair.e81e46b6.png",
-    "static/media/greenhex.a19f4b67.png": "/karrysaunders/kswebsite/static/media/greenhex.a19f4b67.png",
-    "static/media/icon2.5f5b05bd.png": "/karrysaunders/kswebsite/static/media/icon2.5f5b05bd.png",
-    "static/media/icon4.05b422a9.png": "/karrysaunders/kswebsite/static/media/icon4.05b422a9.png",
-    "static/media/icon5.b22fe42c.png": "/karrysaunders/kswebsite/static/media/icon5.b22fe42c.png",
-    "static/media/tealhex.80317de2.png": "/karrysaunders/kswebsite/static/media/tealhex.80317de2.png",
-    "static/media/workspace.8c41c0df.png": "/karrysaunders/kswebsite/static/media/workspace.8c41c0df.png",
-    "static/media/workspace03.db560e7f.jpg": "/karrysaunders/kswebsite/static/media/workspace03.db560e7f.jpg"
+    "main.css": "/kswebsite/static/css/main.e391c1e0.chunk.css",
+    "main.js": "/kswebsite/static/js/main.4d176f38.chunk.js",
+    "main.js.map": "/kswebsite/static/js/main.4d176f38.chunk.js.map",
+    "runtime-main.js": "/kswebsite/static/js/runtime-main.0c2d8ea8.js",
+    "runtime-main.js.map": "/kswebsite/static/js/runtime-main.0c2d8ea8.js.map",
+    "static/js/2.0694e84e.chunk.js": "/kswebsite/static/js/2.0694e84e.chunk.js",
+    "static/js/2.0694e84e.chunk.js.map": "/kswebsite/static/js/2.0694e84e.chunk.js.map",
+    "index.html": "/kswebsite/index.html",
+    "static/css/main.e391c1e0.chunk.css.map": "/kswebsite/static/css/main.e391c1e0.chunk.css.map",
+    "static/js/2.0694e84e.chunk.js.LICENSE.txt": "/kswebsite/static/js/2.0694e84e.chunk.js.LICENSE.txt",
+    "static/media/bluehex.5b74abb3.png": "/kswebsite/static/media/bluehex.5b74abb3.png",
+    "static/media/chair.e81e46b6.png": "/kswebsite/static/media/chair.e81e46b6.png",
+    "static/media/greenhex.a19f4b67.png": "/kswebsite/static/media/greenhex.a19f4b67.png",
+    "static/media/icon2.5f5b05bd.png": "/kswebsite/static/media/icon2.5f5b05bd.png",
+    "static/media/icon4.05b422a9.png": "/kswebsite/static/media/icon4.05b422a9.png",
+    "static/media/icon5.b22fe42c.png": "/kswebsite/static/media/icon5.b22fe42c.png",
+    "static/media/tealhex.80317de2.png": "/kswebsite/static/media/tealhex.80317de2.png",
+    "static/media/workspace.8c41c0df.png": "/kswebsite/static/media/workspace.8c41c0df.png",
+    "static/media/workspace03.db560e7f.jpg": "/kswebsite/static/media/workspace03.db560e7f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf7039f3.js",
+    "static/js/runtime-main.0c2d8ea8.js",
     "static/js/2.0694e84e.chunk.js",
     "static/css/main.e391c1e0.chunk.css",
-    "static/js/main.f2b69b36.chunk.js"
+    "static/js/main.4d176f38.chunk.js"
   ]
 }
