@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css",
-    "main.js": "/karrysaunders/kswebsite/static/js/main.aae8ad1a.chunk.js",
-    "main.js.map": "/karrysaunders/kswebsite/static/js/main.aae8ad1a.chunk.js.map",
+    "main.js": "/karrysaunders/kswebsite/static/js/main.f2b69b36.chunk.js",
+    "main.js.map": "/karrysaunders/kswebsite/static/js/main.f2b69b36.chunk.js.map",
     "runtime-main.js": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js",
     "runtime-main.js.map": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js.map",
-    "static/js/2.8bef8bee.chunk.js": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js",
-    "static/js/2.8bef8bee.chunk.js.map": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js.map",
+    "static/js/2.0694e84e.chunk.js": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js",
+    "static/js/2.0694e84e.chunk.js.map": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js.map",
     "index.html": "/karrysaunders/kswebsite/index.html",
     "static/css/main.e391c1e0.chunk.css.map": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css.map",
-    "static/js/2.8bef8bee.chunk.js.LICENSE.txt": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js.LICENSE.txt",
+    "static/js/2.0694e84e.chunk.js.LICENSE.txt": "/karrysaunders/kswebsite/static/js/2.0694e84e.chunk.js.LICENSE.txt",
     "static/media/bluehex.5b74abb3.png": "/karrysaunders/kswebsite/static/media/bluehex.5b74abb3.png",
     "static/media/chair.e81e46b6.png": "/karrysaunders/kswebsite/static/media/chair.e81e46b6.png",
     "static/media/greenhex.a19f4b67.png": "/karrysaunders/kswebsite/static/media/greenhex.a19f4b67.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cf7039f3.js",
-    "static/js/2.8bef8bee.chunk.js",
+    "static/js/2.0694e84e.chunk.js",
     "static/css/main.e391c1e0.chunk.css",
-    "static/js/main.aae8ad1a.chunk.js"
+    "static/js/main.f2b69b36.chunk.js"
   ]
 }
