@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/karrysaunders/kswebsite.git/static/css/main.e391c1e0.chunk.css",
-    "main.js": "/karrysaunders/kswebsite.git/static/js/main.ca544815.chunk.js",
-    "main.js.map": "/karrysaunders/kswebsite.git/static/js/main.ca544815.chunk.js.map",
-    "runtime-main.js": "/karrysaunders/kswebsite.git/static/js/runtime-main.89dc04fb.js",
-    "runtime-main.js.map": "/karrysaunders/kswebsite.git/static/js/runtime-main.89dc04fb.js.map",
-    "static/js/2.8bef8bee.chunk.js": "/karrysaunders/kswebsite.git/static/js/2.8bef8bee.chunk.js",
-    "static/js/2.8bef8bee.chunk.js.map": "/karrysaunders/kswebsite.git/static/js/2.8bef8bee.chunk.js.map",
-    "index.html": "/karrysaunders/kswebsite.git/index.html",
-    "static/css/main.e391c1e0.chunk.css.map": "/karrysaunders/kswebsite.git/static/css/main.e391c1e0.chunk.css.map",
-    "static/js/2.8bef8bee.chunk.js.LICENSE.txt": "/karrysaunders/kswebsite.git/static/js/2.8bef8bee.chunk.js.LICENSE.txt",
-    "static/media/bluehex.5b74abb3.png": "/karrysaunders/kswebsite.git/static/media/bluehex.5b74abb3.png",
-    "static/media/chair.e81e46b6.png": "/karrysaunders/kswebsite.git/static/media/chair.e81e46b6.png",
-    "static/media/greenhex.a19f4b67.png": "/karrysaunders/kswebsite.git/static/media/greenhex.a19f4b67.png",
-    "static/media/icon2.5f5b05bd.png": "/karrysaunders/kswebsite.git/static/media/icon2.5f5b05bd.png",
-    "static/media/icon4.05b422a9.png": "/karrysaunders/kswebsite.git/static/media/icon4.05b422a9.png",
-    "static/media/icon5.b22fe42c.png": "/karrysaunders/kswebsite.git/static/media/icon5.b22fe42c.png",
-    "static/media/tealhex.80317de2.png": "/karrysaunders/kswebsite.git/static/media/tealhex.80317de2.png",
-    "static/media/workspace.8c41c0df.png": "/karrysaunders/kswebsite.git/static/media/workspace.8c41c0df.png",
-    "static/media/workspace03.db560e7f.jpg": "/karrysaunders/kswebsite.git/static/media/workspace03.db560e7f.jpg"
+    "main.css": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css",
+    "main.js": "/karrysaunders/kswebsite/static/js/main.aae8ad1a.chunk.js",
+    "main.js.map": "/karrysaunders/kswebsite/static/js/main.aae8ad1a.chunk.js.map",
+    "runtime-main.js": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js",
+    "runtime-main.js.map": "/karrysaunders/kswebsite/static/js/runtime-main.cf7039f3.js.map",
+    "static/js/2.8bef8bee.chunk.js": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js",
+    "static/js/2.8bef8bee.chunk.js.map": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js.map",
+    "index.html": "/karrysaunders/kswebsite/index.html",
+    "static/css/main.e391c1e0.chunk.css.map": "/karrysaunders/kswebsite/static/css/main.e391c1e0.chunk.css.map",
+    "static/js/2.8bef8bee.chunk.js.LICENSE.txt": "/karrysaunders/kswebsite/static/js/2.8bef8bee.chunk.js.LICENSE.txt",
+    "static/media/bluehex.5b74abb3.png": "/karrysaunders/kswebsite/static/media/bluehex.5b74abb3.png",
+    "static/media/chair.e81e46b6.png": "/karrysaunders/kswebsite/static/media/chair.e81e46b6.png",
+    "static/media/greenhex.a19f4b67.png": "/karrysaunders/kswebsite/static/media/greenhex.a19f4b67.png",
+    "static/media/icon2.5f5b05bd.png": "/karrysaunders/kswebsite/static/media/icon2.5f5b05bd.png",
+    "static/media/icon4.05b422a9.png": "/karrysaunders/kswebsite/static/media/icon4.05b422a9.png",
+    "static/media/icon5.b22fe42c.png": "/karrysaunders/kswebsite/static/media/icon5.b22fe42c.png",
+    "static/media/tealhex.80317de2.png": "/karrysaunders/kswebsite/static/media/tealhex.80317de2.png",
+    "static/media/workspace.8c41c0df.png": "/karrysaunders/kswebsite/static/media/workspace.8c41c0df.png",
+    "static/media/workspace03.db560e7f.jpg": "/karrysaunders/kswebsite/static/media/workspace03.db560e7f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89dc04fb.js",
+    "static/js/runtime-main.cf7039f3.js",
     "static/js/2.8bef8bee.chunk.js",
     "static/css/main.e391c1e0.chunk.css",
-    "static/js/main.ca544815.chunk.js"
+    "static/js/main.aae8ad1a.chunk.js"
   ]
 }
