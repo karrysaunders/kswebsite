@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kswebsite/static/css/main.72ec8c3a.chunk.css",
-    "main.js": "/kswebsite/static/js/main.a2266819.chunk.js",
-    "main.js.map": "/kswebsite/static/js/main.a2266819.chunk.js.map",
+    "main.css": "/kswebsite/static/css/main.bb179ec6.chunk.css",
+    "main.js": "/kswebsite/static/js/main.f918f30f.chunk.js",
+    "main.js.map": "/kswebsite/static/js/main.f918f30f.chunk.js.map",
     "runtime-main.js": "/kswebsite/static/js/runtime-main.0c2d8ea8.js",
     "runtime-main.js.map": "/kswebsite/static/js/runtime-main.0c2d8ea8.js.map",
     "static/js/2.e3c41d1b.chunk.js": "/kswebsite/static/js/2.e3c41d1b.chunk.js",
     "static/js/2.e3c41d1b.chunk.js.map": "/kswebsite/static/js/2.e3c41d1b.chunk.js.map",
     "index.html": "/kswebsite/index.html",
-    "static/css/main.72ec8c3a.chunk.css.map": "/kswebsite/static/css/main.72ec8c3a.chunk.css.map",
+    "static/css/main.bb179ec6.chunk.css.map": "/kswebsite/static/css/main.bb179ec6.chunk.css.map",
     "static/js/2.e3c41d1b.chunk.js.LICENSE.txt": "/kswebsite/static/js/2.e3c41d1b.chunk.js.LICENSE.txt",
     "static/media/HousePlans.3796c5dd.png": "/kswebsite/static/media/HousePlans.3796c5dd.png",
     "static/media/KWS Resume.d8e41bf6.png": "/kswebsite/static/media/KWS Resume.d8e41bf6.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.0c2d8ea8.js",
     "static/js/2.e3c41d1b.chunk.js",
-    "static/css/main.72ec8c3a.chunk.css",
-    "static/js/main.a2266819.chunk.js"
+    "static/css/main.bb179ec6.chunk.css",
+    "static/js/main.f918f30f.chunk.js"
   ]
 }
