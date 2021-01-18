@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kswebsite/static/css/main.1f005d2d.chunk.css",
-    "main.js": "/kswebsite/static/js/main.9dc44424.chunk.js",
-    "main.js.map": "/kswebsite/static/js/main.9dc44424.chunk.js.map",
+    "main.js": "/kswebsite/static/js/main.51c9587e.chunk.js",
+    "main.js.map": "/kswebsite/static/js/main.51c9587e.chunk.js.map",
     "runtime-main.js": "/kswebsite/static/js/runtime-main.0c2d8ea8.js",
     "runtime-main.js.map": "/kswebsite/static/js/runtime-main.0c2d8ea8.js.map",
     "static/js/2.a6cd637c.chunk.js": "/kswebsite/static/js/2.a6cd637c.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.1f005d2d.chunk.css.map": "/kswebsite/static/css/main.1f005d2d.chunk.css.map",
     "static/js/2.a6cd637c.chunk.js.LICENSE.txt": "/kswebsite/static/js/2.a6cd637c.chunk.js.LICENSE.txt",
     "static/media/HousePlans.3796c5dd.png": "/kswebsite/static/media/HousePlans.3796c5dd.png",
-    "static/media/KWS Resume.d8e41bf6.png": "/kswebsite/static/media/KWS Resume.d8e41bf6.png",
+    "static/media/KWS Resume.88dca1ac.png": "/kswebsite/static/media/KWS Resume.88dca1ac.png",
     "static/media/autodesklogo.d03c26f2.png": "/kswebsite/static/media/autodesklogo.d03c26f2.png",
     "static/media/bluehex.5b74abb3.png": "/kswebsite/static/media/bluehex.5b74abb3.png",
     "static/media/chair.e81e46b6.png": "/kswebsite/static/media/chair.e81e46b6.png",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.0c2d8ea8.js",
     "static/js/2.a6cd637c.chunk.js",
     "static/css/main.1f005d2d.chunk.css",
-    "static/js/main.9dc44424.chunk.js"
+    "static/js/main.51c9587e.chunk.js"
   ]
 }
